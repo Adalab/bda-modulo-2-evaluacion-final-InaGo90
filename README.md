@@ -38,7 +38,8 @@ El archivo `Evaluación Final Módulo 2 - Ines Garcia Oubiña.sql` contiene toda
 
 ## Autor
 
-Inés García Oubiña (Ina - promo52)
+Inés García Oubiña 
+(Ina - promo52)
 
 # bda-modulo-2-evaluacion-final-InaGo90
 bda-modulo-2-evaluacion-final-InaGo90 created by GitHub Classroom
